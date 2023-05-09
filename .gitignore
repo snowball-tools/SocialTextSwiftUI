@@ -90,5 +90,4 @@ fastlane/test_output
 iOSInjectionProject/
 *.xcconfig
 
-# Firebase Config
-Messaging/GoogleService-Info.plist
+.DS_Store
